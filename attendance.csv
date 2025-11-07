@@ -1,0 +1,10 @@
+emp_id,name,checkin,checkout,status,email
+EMP001,Aman,2025-11-03 16:36:28,2025-11-03 17:04:00,OUT,amanjha3232@gmail.com
+EMP001,Aman,2025-11-04 10:20:49,,IN,amanjha3232@gmail.com
+EMP002,Mukul,2025-11-04 12:49:45,,IN,mukulrajbanshi988@gmail.com
+EMP002,Dipendra,2025-11-04 13:30:19,,IN,spell.backend1@gmail.com
+EMP001,Aman,2025-11-05 12:03:45,2025-11-05 17:33:30,OUT,amanjha3232@gmail.com
+EMP002,Dipendra,2025-11-05 12:06:03,,IN,spell.backend1@gmail.com
+EMP001,Aman,2025-11-06 13:10:01,,IN,amanjha3232@gmail.com
+EMP004,Kailash,2025-11-06 13:10:45,,IN,spell.frontend1@gmail.com
+EMP001,Aman,2025-11-07 13:03:01,,IN,amanjha3232@gmail.com
