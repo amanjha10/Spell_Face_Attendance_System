@@ -31,7 +31,7 @@ class EmbeddingsGenerator:
                 rgb_array = np.array(pil_image)
                 return cv2.cvtColor(rgb_array, cv2.COLOR_RGB2BGR)
             else:
-                # Handle regular image formats
+
                 return cv2.imread(image_path)
         except Exception as e:
             print(f"❌ Error loading {image_path}: {e}")
